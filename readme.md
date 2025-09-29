@@ -8,6 +8,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Lv.1%20Backend%20Knight&fontSize=70&fontColor=ffffff" />
 </p>
 
+<!-- 백엔드 기사 캐릭터 이미지 -->
+<p align="center">
+  <img width="350" alt="Backend Knight Character" src="https://github.com/user-attachments/assets/f1078f96-a5ed-490e-8197-a655becca267" />
+</p>
+
 <div align="center">
 
 ### ⚔️ **Adventurer:** 김창민 (BiMangRock)
