@@ -92,6 +92,8 @@
 * **Link:** [상세 개발 로그 (Tistory)](https://kimchangmin02.tistory.com/606)
 * **Keyword:** #C# #Unity #ObjectOriented
 
+
+📺 [YouTube](https://www.youtube.com/channel/UC2rcrnUOV_2MdFTKBmHFpkg)
 ---
 
 ### 🏆 **Guild Activities (GitHub 기록)**
