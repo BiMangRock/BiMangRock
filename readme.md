@@ -32,7 +32,9 @@
 - **게임 모딩 기록 (Game Modding)**
   - **설명:** 기존 게임의 세계를 확장하고 새롭게 만드는 모딩 프로젝트 기록입니다.
   - **[블로그 기록 바로가기]**
-    - [테라리아 모딩 (Terraria Modding)](https://kimchangmin02.tistory.com/150)
+    - [테라리아 모딩 (Terraria Modding)]
+    - (https://kimchangmin02.tistory.com/150)
+    - (https://kimchangmin02.tistory.com/151)
     - [마인크래프트 모딩 (Minecraft Modding)](https://kimchangmin02.tistory.com/16)
 
 
