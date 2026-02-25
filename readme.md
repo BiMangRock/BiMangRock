@@ -8,13 +8,13 @@
 #### 📦 [Minecraft Mod] More Zombie & Villager
 * **Description:** 마인크래프트 게임 환경을 확장하는 모드 개발 및 CurseForge 배포
 * **Link:** [CurseForge 보러가기](https://www.curseforge.com/minecraft/mc-mods/pakaplaylistsmorezombieandvillager)
-* **Keyword:** #Java #GameDesign #GlobalDistribution
+
 
 
 #### 🃏 [Hearthstone Clone] 모작 프로젝트
 * **Description:** 유니티 엔진을 활용한 카드 게임 로직 및 UI/UX 구현 실습
 * **Link:** [상세 개발 로그 (Tistory)](https://kimchangmin02.tistory.com/606)
-* **Keyword:** #C# #Unity #ObjectOriented
+
 
 
 
@@ -35,7 +35,10 @@
     - [테라리아 모딩 (Terraria Modding)]
     - (https://kimchangmin02.tistory.com/150)
     - (https://kimchangmin02.tistory.com/151)
-    - [마인크래프트 모딩 (Minecraft Modding)](https://kimchangmin02.tistory.com/16)
+    
+    
+    - [마인크래프트 모딩]
+    -(https://kimchangmin02.tistory.com/16)
 
 
 
