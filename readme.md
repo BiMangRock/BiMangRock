@@ -1,9 +1,6 @@
 # 🎮 Adventure of BiMangRock
 
 <div align="center">
-  <!-- [사진 1: 메인 배너] 
-       직접 만든 멋진 마인크래프트 배경이나 캐릭터 배너를 드래그해서 넣으세요. 
-       없다면 아래 기본 배너를 그대로 두셔도 됩니다. -->
   <img src="https://capsule-render.vercel.app/render?type=waving&color=00c957&height=200&section=header&text=KIM%20CHANG%20MIN&fontSize=80" width="100%"/>
 </div>
 
@@ -12,45 +9,41 @@
   <a href="https://www.instagram.com/kimchangmin9g"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+</div>
 
-
+<br/>
 
 ## ⚒️ **Main Quests (Current Projects)**
 
-<td width="50%" align="center">
-  <!-- 1. 클릭 시 이동할 유튜브 주소를 href=" " 안에 넣으세요 -->
-  <a href="https://www.youtube.com/watch?v=Vxx3nPZySTc">
-    
-    <!-- 2. 화면에 보일 이미지(썸네일 또는 GIF) 주소를 src=" " 안에 넣으세요 -->
-    <img src="https://여기에_이미지_또는_GIF_주소" width="100%">
-    
-    <br/>
-    ▶️ 모드 시연 영상 보기
-  </a>
-  <br/>
-  <b>[Minecraft Mod] More Zombie & Villager</b>
-</td>
-
-
 <table>
   <tr>
-    <!-- 왼쪽: 마인크래프트 섹션 -->
+    <!-- 왼쪽: 마인크래프트 모드 섹션 -->
     <td width="50%" align="center">
-      <img src="https://img.icons8.com/color/96/minecraft-main-character.png" width="80px"/>
-      <br/>
-      <b>[Minecraft Mod] <br/> More Zombie & Villager</b>
-      <br/>
-      <a href="https://www.curseforge.com/minecraft/mc-mods/pakaplaylistsmorezombieandvillager">📦 CurseForge Link</a>
-      <p align="left">마인크래프트 생태계를 확장하는 <br/>좀비 & 주민 변형 모드 개발 및 배포</p>
+<a href="https://www.youtube.com/watch?v=Vxx3nPZySTc">
+<img src="https://img.icons8.com/color/96/minecraft-main-character.png" width="100%">
+<br/>
+▶️ 모드 시연 영상 보기
+</a>
+<br/>
+<br/>
+<b>[Minecraft Mod] <br/> More Zombie & Villager</b>
+<br/>
+<a href="https://www.curseforge.com/minecraft/mc-mods/pakaplaylistsmorezombieandvillager">📦 CurseForge Link</a>
+<p align="left">마인크래프트 생태계를 확장하는 <br/>좀비 & 주민 변형 모드 개발 및 배포</p>
     </td>
-    <!-- 오른쪽: 하스스톤 섹션 (여기를 수정했습니다) -->
+    <!-- 오른쪽: 하스스톤 모작 섹션 -->
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/a0c67677-c416-4f03-b26c-242412890be4" width="80px"/>
-      <br/>
-      <b>[Hearthstone Clone] <br/> 모작 프로젝트</b>
-      <br/>
-      <a href="https://kimchangmin02.tistory.com/606">📝 Development Log</a>
-      <p align="left">유니티 엔진을 활용하여 <br/>카드 게임 로직과 UI/UX를 완벽 재현</p>
+<img src="https://github.com/user-attachments/assets/a0c67677-c416-4f03-b26c-242412890be4" width="100%">
+<br/>
+<br/>
+<b>[Hearthstone Clone] <br/> 모작 프로젝트</b>
+<br/>
+<a href="https://kimchangmin02.tistory.com/606">📝 Development Log</a>
+<p align="left">유니티 엔진을 활용하여 <br/>카드 게임 로직과 UI/UX를 완벽 재현</p>
     </td>
   </tr>
 </table>
@@ -60,7 +53,6 @@
 ## 📦 **Inventory (Apps & Modding)**
 
 ### 📱 Released Applications
-<!-- 아이콘이 필요하면 아래 리스트 앞에 <img src="주소" width="20"> 를 추가해 보세요! -->
 *   **나쁜습관 멈추기 & 충동이 찾아올때** 
     *   [원스토어 - 충동이 찾아올때](https://m.onestore.co.kr/v2/ko-kr/search?keyword=%EC%B6%A9%EB%8F%99%EC%9D%B4+%EC%B0%BE%EC%95%84%EC%98%AC%EB%95%8C) | [원스토어 - 나쁜습관 멈추기](https://m.onestore.co.kr/v2/ko-kr/search?keyword=%EB%82%98%EC%81%9C%EC%8A%B5%EA%B4%80+%EB%A9%88%EC%B6%94%EA%B8%B0)
 *   **프리다이빙 훈련 타이머**
@@ -72,7 +64,7 @@
 
 <br/>
 
-## 🏆 **Guild Stats (GitHub 기록)**
+## 🏆 **Guild Stats**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BiMangRock&show_icons=true&theme=dracula" width="48%" />
@@ -87,7 +79,5 @@
 
 ---
 <div align="center">
-  <!-- [사진 4: 하단 마무리 아이콘] 
-       마인크래프트 잔디 블록이나 곡괭이 이미지를 드래그해서 넣으면 예쁩니다 -->
   <img src="https://mojang.com/favicon.ico" width="20px"> <i>"Mining for better code every day."</i>
 </div>
