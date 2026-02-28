@@ -32,7 +32,9 @@
     <td width="50%" align="center">
       <!-- [사진 3: 하스스톤 모작 이미지] 
            하스스톤 카드 이미지나 게임 스크린샷을 드래그해서 주소를 넣으세요 -->
-      <img src="https://img.icons8.com/color/96/hearthstone.png" width="80px"/>
+![45d44a9f-4ce9-430d-acd4-3da7eb58e331](https://github.com/user-attachments/assets/a0c67677-c416-4f03-b26c-242412890be4)
+
+      
       <br/>
       <b>[Hearthstone Clone] <br/> 모작 프로젝트</b>
       <br/>
