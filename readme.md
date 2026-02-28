@@ -15,28 +15,30 @@
 
 ## ⚒️ **Main Quests (Current Projects)**
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <br/>
-      <img src="https://img.icons8.com/color/96/minecraft-main-character.png" width="80px"/>
-      <br/>
-      <b>[Minecraft Mod] <br/> More Zombie & Villager</b>
-      <br/>
-      <a href="https://www.curseforge.com/minecraft/mc-mods/pakaplaylistsmorezombieandvillager">📦 CurseForge Link</a>
-      <br/><br/>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <br/>
-      <img src="https://img.icons8.com/color/96/hearthstone.png" width="80px"/>
-      <br/>
-      <b>[Hearthstone Clone] <br/> 모작 프로젝트</b>
-      <br/>
-      <a href="https://kimchangmin02.tistory.com/606">📝 Development Log</a>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="90%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <br/>
+        <img src="https://img.icons8.com/color/96/minecraft-main-character.png" width="80px"/>
+        <br/>
+        <b>[Minecraft Mod] <br/> More Zombie & Villager</b>
+        <br/>
+        <a href="https://www.curseforge.com/minecraft/mc-mods/pakaplaylistsmorezombieandvillager">📦 CurseForge Link</a>
+        <br/><br/>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <br/>
+        <img src="https://img.icons8.com/color/96/hearthstone.png" width="80px"/>
+        <br/>
+        <b>[Hearthstone Clone] <br/> 모작 프로젝트</b>
+        <br/>
+        <a href="https://kimchangmin02.tistory.com/606">📝 Development Log</a>
+        <br/><br/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
@@ -45,7 +47,7 @@
 ### 📱 Released Applications
 *   **나쁜습관 멈추기 & 충동이 찾아올때** 
     *   [원스토어 - 충동이 찾아올때](https://m.onestore.co.kr/v2/ko-kr/search?keyword=%EC%B6%A9%EB%8F%99%EC%9D%B4+%EC%B0%BE%EC%95%84%EC%98%AC%EB%95%8C) | [원스토어 - 나쁜습관 멈추기](https://m.onestore.co.kr/v2/ko-kr/search?keyword=%EB%82%98%EC%81%9C%EC%8A%B5%EA%B4%80+%EB%A9%88%EC%B6%94%EA%B8%B0)
-*   **프리다이바이빙 훈련 타이머**
+*   **프리다이빙 훈련 타이머**
     *   [원스토어 - 프리다이빙 훈련](https://m.onestore.co.kr/v2/ko-kr/search?keyword=%ED%94%84%EB%A6%AC%EB%8B%A4%EC%9D%B4%EB%B9%99+%ED%9B%88%EB%A0%A8)
 
 ### 🧩 Game Modding Logs
@@ -60,8 +62,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BiMangRock&theme=dracula" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=BiMangRock&show_icons=true&theme=dracula" width="48%" />
 </div>
-
-<br/>
 
 ---
 <p align="center">Designed by BiMangRock</p>
