@@ -62,15 +62,16 @@
 ## 🏆 **Guild Stats (GitHub 기록)**
 
 <div align="center">
+  <!-- 통계 카드: https로 수정 및 주소 확인 -->
   <img src="https://github-readme-stats.vercel.app/api?username=BiMangRock&show_icons=true&theme=dracula" width="48%" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=BiMangRock&theme=dracula" width="48%" />
+  <!-- 스트릭 카드: http를 https로 수정 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BiMangRock&theme=dracula" width="48%" />
 </div>
 
 <div align="center">
+  <!-- 트로피 카드: 간혹 서버가 불안정하므로 안 보일 경우 시간이 필요합니다 -->
   <img src="https://github-profile-trophy.vercel.app/?username=BiMangRock&theme=dracula&column=7" width="100%" />
 </div>
-
-<br/>
 
 ---
 
