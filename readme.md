@@ -1,11 +1,6 @@
 # 🎮 Adventure of BiMangRock
 
-<div align="center">
-  <!-- [사진 1: 메인 배너] 
-       직접 만든 멋진 마인크래프트 배경이나 캐릭터 배너를 드래그해서 넣으세요. 
-       없다면 아래 기본 배너를 그대로 두셔도 됩니다. -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00c957&height=200&section=header&text=KIM%20CHANG%20MIN&fontSize=80" width="100%"/>
-</div>
+
 
 <div align="center">
   <a href="https://kimchangmin02.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
@@ -78,8 +73,4 @@
 <br/>
 
 ---
-<div align="center">
-  <!-- [사진 4: 하단 마무리 아이콘] 
-       마인크래프트 잔디 블록이나 곡괭이 이미지를 드래그해서 넣으면 예쁩니다 -->
-  <img src="https://mojang.com/favicon.ico" width="20px"> <i>"Mining for better code every day."</i>
-</div>
+
