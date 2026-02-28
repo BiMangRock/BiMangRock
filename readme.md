@@ -84,8 +84,41 @@
 <br/>
 
 ### 🧩 Game Modding Logs
-*   **Terraria Modding**: [Log #1](https://kimchangmin02.tistory.com/150) / [Log #2](https://kimchangmin02.tistory.com/151)
-*   **Minecraft Modding**: [Modding Records](https://kimchangmin02.tistory.com/16)
+
+<!-- 테라리아 모딩 섹션 -->
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <br/>
+      <b>Terraria Modding</b>
+      <ul>
+        <li><a href="https://kimchangmin02.tistory.com/150">Modding Log #1</a></li>
+        <li><a href="https://kimchangmin02.tistory.com/151">Modding Log #2</a></li>
+      </ul>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://github.com/user-attachments/assets/393fb2fb-5ae1-4baa-848e-b1432092c3f3" width="180px" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- 마인크래프트 모딩 섹션 -->
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <br/>
+      <b>Minecraft Modding</b>
+      <ul>
+        <li><a href="https://kimchangmin02.tistory.com/16">Modding Records (All)</a></li>
+      </ul>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://github.com/user-attachments/assets/2a75d667-5408-4daa-ab30-c274c141d2d6" width="180px" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
