@@ -12,13 +12,8 @@
   <a href="https://www.instagram.com/kimchangmin9g"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=Unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-</div>
 
-<br/>
+
 
 ## ⚒️ **Main Quests (Current Projects)**
 
