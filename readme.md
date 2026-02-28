@@ -17,11 +17,25 @@
 
 ## ⚒️ **Main Quests (Current Projects)**
 
+<td width="50%" align="center">
+  <!-- 1. 클릭 시 이동할 유튜브 주소를 href=" " 안에 넣으세요 -->
+  <a href="https://www.youtube.com/watch?v=Vxx3nPZySTc">
+    
+    <!-- 2. 화면에 보일 이미지(썸네일 또는 GIF) 주소를 src=" " 안에 넣으세요 -->
+    <img src="https://여기에_이미지_또는_GIF_주소" width="100%">
+    
+    <br/>
+    ▶️ 모드 시연 영상 보기
+  </a>
+  <br/>
+  <b>[Minecraft Mod] More Zombie & Villager</b>
+</td>
+
+
 <table>
   <tr>
+    <!-- 왼쪽: 마인크래프트 섹션 -->
     <td width="50%" align="center">
-      <!-- [사진 2: 마인크래프트 모드 이미지] 
-           좀비나 주민 도트 아이콘, 혹은 모드 대표 이미지를 드래그해서 주소를 넣으세요 -->
       <img src="https://img.icons8.com/color/96/minecraft-main-character.png" width="80px"/>
       <br/>
       <b>[Minecraft Mod] <br/> More Zombie & Villager</b>
@@ -29,12 +43,9 @@
       <a href="https://www.curseforge.com/minecraft/mc-mods/pakaplaylistsmorezombieandvillager">📦 CurseForge Link</a>
       <p align="left">마인크래프트 생태계를 확장하는 <br/>좀비 & 주민 변형 모드 개발 및 배포</p>
     </td>
+    <!-- 오른쪽: 하스스톤 섹션 (여기를 수정했습니다) -->
     <td width="50%" align="center">
-      <!-- [사진 3: 하스스톤 모작 이미지] 
-           하스스톤 카드 이미지나 게임 스크린샷을 드래그해서 주소를 넣으세요 -->
-![45d44a9f-4ce9-430d-acd4-3da7eb58e331](https://github.com/user-attachments/assets/a0c67677-c416-4f03-b26c-242412890be4)
-
-      
+      <img src="https://github.com/user-attachments/assets/a0c67677-c416-4f03-b26c-242412890be4" width="80px"/>
       <br/>
       <b>[Hearthstone Clone] <br/> 모작 프로젝트</b>
       <br/>
