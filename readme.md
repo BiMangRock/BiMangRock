@@ -45,10 +45,27 @@
 ## 📦 **Inventory (Apps & Modding)**
 
 ### 📱 Released Applications
+
 *   **나쁜습관 멈추기 & 충동이 찾아올때** 
     *   [원스토어 - 충동이 찾아올때](https://m.onestore.co.kr/v2/ko-kr/search?keyword=%EC%B6%A9%EB%8F%99%EC%9D%B4+%EC%B0%BE%EC%95%84%EC%98%AC%EB%95%8C) | [원스토어 - 나쁜습관 멈추기](https://m.onestore.co.kr/v2/ko-kr/search?keyword=%EB%82%98%EC%81%9C%EC%8A%B5%EA%B4%80+%EB%A9%88%EC%B6%94%EA%B8%B0)
-*   **프리다이빙 훈련 타이머**
-    *   [원스토어 - 프리다이빙 훈련](https://m.onestore.co.kr/v2/ko-kr/search?keyword=%ED%94%84%EB%A6%AC%EB%8B%A4%EC%9D%B4%EB%B9%99+%ED%9B%88%EB%A0%A8)
+
+<!-- 프리다이빙 섹션 -->
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <br/>
+      <b>프리다이빙 훈련 타이머</b>
+      <ul>
+        <li><a href="https://m.onestore.co.kr/v2/ko-kr/search?keyword=%ED%94%84%EB%A6%AC%EB%8B%A4%EC%9D%B4%EB%B9%99+%ED%9B%88%EB%A0%A8">원스토어 - 프리다이빙 훈련</a></li>
+      </ul>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://github.com/user-attachments/assets/46cd7e06-7b70-4bfd-902e-d8e1a5e820be" width="180px" alt="Freediving Photo" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ### 🧩 Game Modding Logs
 *   **Terraria Modding**: [Log #1](https://kimchangmin02.tistory.com/150) / [Log #2](https://kimchangmin02.tistory.com/151)
