@@ -27,7 +27,7 @@
       <b>[Minecraft Mod] <br/> More Zombie & Villager</b>
       <br/>
       <a href="https://www.curseforge.com/minecraft/mc-mods/pakaplaylistsmorezombieandvillager">📦 CurseForge Link</a>
-      <p align="left">마인크래프트 생태계를 확장하는 <br/>좀비 & 주민 변형 모드 개발 및 배포</p>
+      
     </td>
     <td width="50%" align="center">
       <!-- [사진 3: 하스스톤 모작 이미지] 
@@ -37,7 +37,7 @@
       <b>[Hearthstone Clone] <br/> 모작 프로젝트</b>
       <br/>
       <a href="https://kimchangmin02.tistory.com/606">📝 Development Log</a>
-      <p align="left">유니티 엔진을 활용하여 <br/>카드 게임 로직과 UI/UX를 완벽 재현</p>
+      
     </td>
   </tr>
 </table>
