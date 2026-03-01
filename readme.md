@@ -1,9 +1,16 @@
 # 🎮 Adventure of BiMangRock
 
 <div align="center">
-  <a href="https://kimchangmin02.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-  <!-- 유튜브 링크는 아래 href="..." 부분에 넣으시면 됩니다 -->
-  <a href="https://www.youtube.com/@making_minecraftMod_and_upload"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+  <h3><b>✨ Visit My Channels (Click below!) ✨</b></h3>
+  <a href="https://kimchangmin02.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@making_minecraftMod_and_upload">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  </a>
+  <br/>
+  <p><b>👇 Click the badges to see more contents!</b></p>
 </div>
 
 <div align="center">
