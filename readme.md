@@ -120,7 +120,10 @@
       <br/>
       <b>Minecraft Modding</b>
       <ul>
-        <li><a href="https://kimchangmin02.tistory.com/16">Modding Records (All)</a></li>
+        <li><a href="https://kimchangmin02.tistory.com/16">Modding Records (마법사 주민)</a></li>
+        <li><a href="https://kimchangmin02.tistory.com/482">Modding Records (천사강림)</a></li>
+        <li><a href="https://kimchangmin02.tistory.com/532">Modding Records (주민으로 타워만들기)</a></li>
+        <li><a href="https://kimchangmin02.tistory.com/488">Modding Records (꿀벌몹)</a></li>
       </ul>
     </td>
     <td width="30%" align="center">
