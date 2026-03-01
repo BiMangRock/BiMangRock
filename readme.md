@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
   <br/>
-  <p><b>👇 Click the badges to see more contents!</b></p>
+  <p><b>👇 Main Programming Languages!</b></p>
 </div>
 
 <div align="center">
