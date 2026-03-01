@@ -102,6 +102,7 @@
       <ul>
         <li><a href="https://kimchangmin02.tistory.com/150">Modding Log #1</a></li>
         <li><a href="https://kimchangmin02.tistory.com/151">Modding Log #2</a></li>
+        <li><a href="https://kimchangmin02.tistory.com/510">Modding Log #3</a></li>
       </ul>
     </td>
     <td width="30%" align="center">
