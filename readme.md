@@ -84,7 +84,8 @@
       <br/>
       <b>프리다이빙 훈련 타이머</b>
       <ul>
-        <li><a href="https://m.onestore.co.kr/v2/ko-kr/search?keyword=%ED%94%84%EB%A6%AC%EB%8B%A4%EC%9D%B4%EB%B9%99+%ED%9B%88%EB%A0%A8">원스토어 - 프리다이빙 훈련</a></li>
+        <li><a href="https://m.onestore.co.kr/v2/ko-kr/app/0001007247">원스토어 - 프리다이빙 훈련 (앱 바로가기)</a></li>
+        <li><a href="https://m.onestore.co.kr/v2/ko-kr/search?keyword=%ED%94%84%EB%A6%AC%EB%8B%A4%EC%9D%B4%EB%B9%99+%ED%9B%88%EB%A0%A8">원스토어 - 프리다이빙 훈련 (검색결과)</a></li>
       </ul>
     </td>
     <td width="30%" align="center">
