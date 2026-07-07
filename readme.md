@@ -9,6 +9,10 @@
   <a href="https://www.youtube.com/@making_minecraftMod_and_upload">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.curseforge.com/members/pakaplaylist/projects">
+    <img src="https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white"/>
+  </a>
   <br/>
   <p><b>👇 Main Programming Languages!</b></p>
 </div>
@@ -134,10 +138,12 @@
 
 <br/>
 
-## 🏆 **Guild Stats (GitHub 기록)**
+## 🏆 **Guild Stats (GitHub 기록 & 코딩 테스트)**
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BiMangRock&theme=dracula" width="48%" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/7ea54923-edd2-45b0-b3de-5c9396d11903" width="48%" style="border-radius: 10px;" alt="Programmers Score"/>
 </div>
 
 ---
