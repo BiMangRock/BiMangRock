@@ -1,5 +1,7 @@
 # 🎮 Adventure of BiMangRock
 
+**GCP :** [https://field-twist-b29.notion.site/GCP-3ed6251d00be80128740e1056443c19b?source=copy_link](https://field-twist-b29.notion.site/GCP-3ed6251d00be80128740e1056443c19b?source=copy_link)
+
 <div align="center">
   <h3><b>✨ Visit My Channels (Click below!) ✨</b></h3>
   <a href="https://kimchangmin02.tistory.com">
