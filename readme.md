@@ -1,6 +1,11 @@
 # 🎮 Adventure of BiMangRock
 
-**GCP :** [https://field-twist-b29.notion.site/GCP-3ed6251d00be80128740e1056443c19b?source=copy_link](https://field-twist-b29.notion.site/GCP-3ed6251d00be80128740e1056443c19b?source=copy_link)
+<div align="center">
+  <h3>🇹🇭 영남대 & 태국 GCP 🥵🌡️</h3>
+  <p>🏆 CDP Program 수상 | 🚨 Heat Risk Alert Presentation</p>
+  <a href="https://field-twist-b29.notion.site/GCP-3ed6251d00be80128740e1056443c19b">📂 영상 & PPT 보러가기</a>
+</div>
+
 
 <div align="center">
   <h3><b>✨ Visit My Channels (Click below!) ✨</b></h3>
