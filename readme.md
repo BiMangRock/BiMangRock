@@ -5,13 +5,12 @@
   <p>🏆 CDP Program 수상 | 🚨 Heat Risk Alert</p>
   <a href="https://field-twist-b29.notion.site/GCP-3ed6251d00be80128740e1056443c19b">📂 영상 & PPT</a>
   <br/><br/>
-  
   <p>🎤 <b>공학교육혁신센터 영어 프레젠테이션 발표대회</b></p>
-  <a href="https://www.yu.ac.kr/yufesta/eng-presentation/kim-chang-min.do">🏫 </a>
+  <a href="https://www.yu.ac.kr/yufesta/eng-presentation/kim-chang-min.do">🏫 링크1  </a>
   &nbsp;|&nbsp;
-  <a href="https://www.yu.ac.kr/yufesta/eng-presentation/kim-seok-hyun.do">🏫 </a>
+  <a href="https://www.yu.ac.kr/yufesta/eng-presentation/kim-seok-hyun.do">🏫 링크2 </a>
   &nbsp;|&nbsp;
-  <a href="https://www.youtube.com/watch?v=C0wGV2rpfzQ">▶️ 발표 영상</a>
+  <a href="https://www.youtube.com/watch?v=C0wGV2rpfzQ">▶️ 발표 영상(유튜브)</a>
 </div>
 
 
