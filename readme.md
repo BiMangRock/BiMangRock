@@ -3,7 +3,7 @@
 <div align="center">
   <h3>🇹🇭 영남대 & 태국 GCP 🥵🌡️</h3>
   <p>🏆 CDP Program 수상 | 🚨 Heat Risk Alert</p>
-  <a href="https://field-twist-b29.notion.site/GCP-3ed6251d00be80128740e1056443c19b">📂 영상 & PPT</a>
+  <a href="https://field-twist-b29.notion.site/GCP-3ed6251d00be80128740e1056443c19b">📂 영상 & PPT & 상장,수료증</a>
   <br/><br/>
   <p>🎤 <b>공학교육혁신센터 영어 프레젠테이션 발표대회</b></p>
   <a href="https://www.yu.ac.kr/yufesta/eng-presentation/kim-chang-min.do">🏫 링크1  </a>
