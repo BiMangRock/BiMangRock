@@ -51,9 +51,9 @@
         <br/>
         <b>[Hearthstone Clone] <br/> 모작 프로젝트 (강화학습으로 하스스톤 구현)</b>
         <br/>
-        <a href="https://kimchangmin02.tistory.com/606">📝 Development Log</a>
+        <a href="https://www.youtube.com/watch?v=eYwWDWgo4q4">▶️ YouTube 1</a>
         &nbsp;|&nbsp;
-        <a href="https://www.youtube.com/watch?v=eYwWDWgo4q4">▶️ YouTube</a>
+        <a href="https://www.youtube.com/watch?v=iRCRDXIZhEI">▶️ YouTube 2</a>
         <br/><br/>
       </td>
     </tr>
