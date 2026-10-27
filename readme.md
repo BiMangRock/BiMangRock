@@ -27,14 +27,6 @@
   <a href="https://www.curseforge.com/members/pakaplaylist/projects">
     <img src="https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white"/>
   </a>
-  <br/>
-  <p><b>👇 Main Programming Languages!</b></p>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=Unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
 </div>
 
 <br/>
@@ -57,9 +49,11 @@
         <br/>
         <img src="https://img.icons8.com/color/96/hearthstone.png" width="80px"/>
         <br/>
-        <b>[Hearthstone Clone] <br/> 모작 프로젝트</b>
+        <b>[Hearthstone Clone] <br/> 모작 프로젝트 (강화학습으로 하스스톤 구현)</b>
         <br/>
         <a href="https://kimchangmin02.tistory.com/606">📝 Development Log</a>
+        &nbsp;|&nbsp;
+        <a href="https://www.youtube.com/watch?v=eYwWDWgo4q4">▶️ YouTube</a>
         <br/><br/>
       </td>
     </tr>
